@@ -4,7 +4,7 @@ This project features a JavaScript code that allows users to select radio inputs
 
 The code is efficient and responsive, using Bootstrap to ensure a seamless user experience. It's a great starting point for more advanced projects that require user interaction and dynamic content.
 
-(https://clclickweb.es/img/demo.png)
+![](https://clclickweb.es/img/demo.png)
 
 
 ## Demo
